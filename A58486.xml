@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks by way of advertisement upon the Bishop of Grenoble's letter to the clergy of his diocese, concerning their behaviour towards the new-converts together with the lettter it self.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58486</idno>
+            <idno type="STC">Wing R928</idno>
+            <idno type="STC">ESTC R33990</idno>
+            <idno type="EEBO-CITATION">13651490</idno>
+            <idno type="OCLC">ocm 13651490</idno>
+            <idno type="VID">100990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks by way of advertisement upon the Bishop of Grenoble's letter to the clergy of his diocese, concerning their behaviour towards the new-converts together with the lettter it self.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100990:1"/>
+            <pb facs="tcp:100990:1" rendition="simple:additions"/>
+            <p>REMARKS, By way of ADVERTISEMENT Upon the Biſhop of Grenoble's Letter TO THE CLERGY OF HIS DIOCESE, Concerning their Behaviour towards the <hi>New-Converts:</hi> Together with the Letter it ſelf.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Jones,</hi> 1687.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100990:2"/>
+            <pb n="3" facs="tcp:100990:2"/>
+            <head>AN ADVERTISEMENT TO THE READER.</head>
+            <p>THE following Letter has made ſo great a noiſe in <hi>France,</hi> and other parts beyond the Seas, for more than theſe five Months paſt, ſince it was firſt publiſhed by the Illuſtrious Author, who is a Biſhop of the <hi>Roman</hi> Church, that I have won<g ref="char:EOLhyphen"/>der'd it has not, in all this time, appear'd in an <hi>Engliſh</hi> dreſs, till the other day; eſpecially ſince the Preſs and the Publick have been ſo long peſter'd with ſwarmes of Inſipid as well as Malicious Pamphlets, from Perſons of that Communion, which daily flye abroad, and ſerve for no other end, but to expoſe the Folly or Wickedneſs of the Writers; and therefore I have ſome reaſon to be confident, that this excellent Letter, which is now ſent into the World in our own Language, will be the more welcome, becauſe the Inſtructions contained in it, and the Inferences that may be drawn from them, together with the Merit and Character of the Author, are of great uſe to give us a right Information in matters of the higheſt Importance, which hitherto have not been of ſuch clear and unqueſtiona<g ref="char:EOLhyphen"/>ble Credit.</p>
+            <p>And becauſe the Age wherein we live ſeems to be made up of Contradictions, there are two Things which will not
+<pb n="4" facs="tcp:100990:3"/>be ingrateful to the Reader to take notice of, and which will farther ſerve to commend the Letter, and to Apologize for the preſent Publication of it: The one is, The great Oppoſition it has met with from the Jeſuits, who have endeavour'd all they could to ſuppreſs it; and the other is, The Kings Appro<g ref="char:EOLhyphen"/>bation of it, who upon the reading it, was pleas'd to ſay, <hi>He ſaw nothing in it but what was very Innocent.</hi> Which ſhews who are the Authors of thoſe Severities that have been of late us'd againſt the Proteſtants in <hi>France;</hi> and that the Grand <hi>Lewis</hi> himſelf, by whoſe Authority they Act, has not ſo wholly diveſted himſelf of all Principles of Humanity, but in his private Judgment he condemns thoſe Proceedings, to which it may be preſum'd, his Conſent has been extorted by theſe Mens Importunity.</p>
+            <p>The Conformity of thoſe Rules in the general, to the Do<g ref="char:EOLhyphen"/>ctrine of the Goſpel, which this Reverend and moſt Worthy Prelate here lays down for the Direction of his Clergy, how to behave themſelves towards the New Converts, and the Contrariety they bear, for the moſt part, to the conſtant Doctrine and Practice of the <hi>Roman</hi> Church, as it is a plain Demonſtration that their Church, even in the Opinion of ſome of her chiefeſt Members, is not Infallible in all her De<g ref="char:EOLhyphen"/>terminations, and that ſhe ſtands in great need of a Reforma<g ref="char:EOLhyphen"/>tion, which, as I am very well aſſured, is heartily wiſh'd, as it has been in part attempted, by the Author of this Letter; ſo it gives apparently the lie to ſome late Writer of the <hi>French</hi> Nation.</p>
+            <p>Inſtances of this Contrariety are ſo viſible, that they ap<g ref="char:EOLhyphen"/>pear at firſt ſight, without any wreſting or forc'd Interpreta<g ref="char:EOLhyphen"/>tion, in every Article of the Letter.</p>
+            <p>In the Firſt and Second Articles, the Biſhop in Obedience to the Command of our Saviour and his Apoſtles, and in con<g ref="char:EOLhyphen"/>formity to the Univerſal Practice of the Primitive Church,
+<pb n="5" facs="tcp:100990:3"/>would have the Scripture (at leaſt the Epiſtles and Goſpels) and the Publick Prayers read to the People in the Vulgar Tongue, whereas nothing is more ſtrongly pleaded for, or more ſtrictly injoyn'd and obſerved in the Church of <hi>Rome,</hi> than the contrary practice.</p>
+            <p>The Third Article concerns, eſpecially the Biſhop of <hi>Meaum,</hi> and his Diſciples, and ſome late Repreſenters of our own Na<g ref="char:EOLhyphen"/>tion, who have found no way ſo effectual to gain Proſelytes, as to diſguiſe the Tenets of their own Church, which have ſo horrid an Aſpect of themſelves, that they would make any Man of common ſenſe afraid to look upon them; and therefore they muſt be new dreſt up, and made to come ſo near to that which they call Proteſtant Hereſie, that the one can hardly be diſtinguiſht from the other, and when the turn is ſerved, and the man by this means is perſwaded to be of their Religion, then off goes the Vizard, and there is no more believing your own Senſes, but you muſt believe as the Church believes, and like thoſe Men who have had an old painted Strumpet impoſed up<g ref="char:EOLhyphen"/>on them for a Wife, inſtead of a young Beautiful Virgin, you muſt reſolve to be pleas'd with your New Religion, with all her Deformities.</p>
+            <p>The Fourth Article is a Rejection and Condemnation of ſe<g ref="char:EOLhyphen"/>veral important Doctrines and Practices of the Church of <hi>Rome;</hi> as firſt, the Worſhip that is given to Saints and Angels, and the Prayers that are made to them, is here abſolutely condem<g ref="char:EOLhyphen"/>ned as vain, inſignificant, and ſuperſtitious, and every thing elſe that is contrary to the truth and ſincerity of that Worſhip and Adoration which belongs to God only. Secondly, It con<g ref="char:EOLhyphen"/>demns the <hi>Romiſh</hi> Doctrine of the Merit of Good Works, and Supererogation, by teaching us to place our Confidence in the Sole Merits of Chriſt, which is the true and ſaving Do<g ref="char:EOLhyphen"/>ctrine of the Goſpel, and of the Reformed Churches: And laſt<g ref="char:EOLhyphen"/>ly, It condemns that common belief in the Church of <hi>Rome,</hi> and all thoſe Pilgrimages that are undertaken upon that ac<g ref="char:EOLhyphen"/>count
+<pb n="6" facs="tcp:100990:4"/>that there is a particular and extraordinary Virtue in Images and Relicks, and a Vertue peculiar to ſome Images of the ſame Saint, more than there is in others; as is notorious to all the World in the different regard that is had to the Images of the Bleſſed Virgin at <hi>Loretto, Hall, Namur,</hi> and o<g ref="char:EOLhyphen"/>ther places.</p>
+            <p>The Fifth Article condemns that empty and ridiculous way of Preaching which is ſo common among the Prieſts of the <hi>Roman</hi> Church, and which is made up of nothing elſe, but either Sottiſh and Ill-contriv'd Stories of pretended Miracles, or elſe of Invectives, without any ſolid or convincing Arguments againſt the Reformation.</p>
+            <p>The Sixth Article condemns the Barbarities that have been exerciſed in <hi>France</hi> againſt the Proteſtants, and the new Miſſion of Dragoons, which has been ſent into all parts of the Kingdom, to ruine them in their Eſtates, to torment them in their Bodies, and ſo to convert them by forcing them againſt their Conſci<g ref="char:EOLhyphen"/>ences to ſet their hands to a preſcribed form of Abjuration; which, as I ſaid before, gives apparently the lie to ſome late <hi>French</hi> Authors, as <hi>Maimbourg</hi> for example, who has the Con<g ref="char:EOLhyphen"/>fidence to publiſh to the World, in his Epiſtle Dedicatory to the King, which is before his Life of <hi>Gregory</hi> the Great, that there has been nothing but ſweet and gentle Methods us'd to bring over the Proteſtants to the Catholick Church, and that his Majeſty had found out the ſecret of <hi>Conſtraining</hi> his Sub<g ref="char:EOLhyphen"/>jects, <hi>without violence,</hi> to be of his Religion.</p>
+            <p>The Seventh Article is a Confirmation of what is obſer<g ref="char:EOLhyphen"/>ved upon the former, and gives us ſufficiently to underſtand, that among the great Numbers they boaſt of, who have abju<g ref="char:EOLhyphen"/>red their Religion wherein they had been Educated, there are but very few ſincere Converts, by their not coming to Maſs, and refuſing to participate of any of their Sacraments, when they are not compell'd to it, (which the Biſhop in this, and in the <hi>8th</hi> and <hi>11th</hi> Articles condemns) and by their taking all
+<pb n="7" facs="tcp:100990:4"/>Opportunities to leave their Native Country, and to ſeek for Relief and Protection among Strangers; where, upon their Repentance, they may be again receiv'd into the Communion of that Church, from which, through Fear and Coward<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe they had Apoſtatiz'd, as appears by the vaſt numbers, who daily come out of <hi>France,</hi> and take Sanctuary in <hi>England, Hol<g ref="char:EOLhyphen"/>land, Suitzerland,</hi> and other Proteſtant Countreys.</p>
+            <p>The Ninth Article, is an Inſinuation of the Abuſes that are committed in Auricular Confeſſion, and the Impurities which uſually accompany it, and which are almoſt inſeparable from it, when one of the frail Sex is forced upon pain of Damnati<g ref="char:EOLhyphen"/>on to lay open her own ſhame, with all the Circumſtances that attended her ſin, and eſpecially when the gentleneſs of a favourable Pennance is made a freſh encouragement to her for the Repetition of the ſame Crime.</p>
+            <p>The Twelfth Article is a Condemnation of that barbarous Inhumanity which has been, and is ſtill practiſed all over <hi>France,</hi> towards the dead Bodies of thoſe pretended Converts, who refus'd their Sacraments before their death; by dragging them about the Streets, and not ſuffering their Friends to bury them, but carrying them into the Fields, and there ſetting a Watch over them till they are devour'd by Dogs, and other ravenous Creatures. A Practice unknown to the moſt barbarous Nations, who never extended their malice even to their great<g ref="char:EOLhyphen"/>eſt Enemies beyond death; and which nothing but a Religion that delights in nothing but Cruelty, could ever prompt Men to.</p>
+            <p>The remaining Articles are an earneſt Exhortation of the Clergy of that Dioceſe, to whom the Letter is particularly ad<g ref="char:EOLhyphen"/>dreſſed, to painfulneſs, and watchfulneſs in the diſcharge of their Duty; to meekneſs, forbearance, condeſcention, and a Uni<g ref="char:EOLhyphen"/>verſal Love and Charity, which ſhews that the Author is a Perſon of a truly Evangelical Spirit, and deſerves a better fate than to live any longer in the Communion of that Church,
+<pb n="8" facs="tcp:100990:5"/>which is by its very Eſſence and Conſtitution apt to inſpire its Members with Principles of a quite different and contrary Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Thoſe things which the Reverend Author mentions, as ha<g ref="char:EOLhyphen"/>ving been conſtantly of Faith and the Belief of his Church, in oppoſition to the Doctrine of the Schools, I muſt beg his Emi<g ref="char:EOLhyphen"/>nencies leave to ſay, that it will hardly be proved, that they were always the Faith of his Church, and that his meaning is, he wiſhes they had always remain'd in the ſame Purity wherein Chriſt and his Apoſtles left them.</p>
+            <p>And now let <hi>N. Thomſon,</hi> who was the firſt Publiſher of this Letter in <hi>Engliſh,</hi> make the moſt of it he can, for the ho<g ref="char:EOLhyphen"/>nour of his Church, which beſides a little reſpect to his own gain, was the main deſign of Printing it in <hi>Engliſh,</hi> nor is it to be doubted but his Tranſlation is as Catholique as the letter it ſelf. But I have one word of Advice to him, and then I have done, That when he publiſhes a Second Edition of it, he would alter the Title, and call it, <hi>A Catalogue of ſome Corruptions of the</hi> Roman <hi>Church, both in Doctrine and Practice,</hi> by an Author of that Communion.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="9" facs="tcp:100990:5"/>
+            <head>A COPY OF A LETTER OF Cardinal Camus, BISHOP and PRINCE of GRENOBLE, TO THE CLERGY of his DIOCESE, Concerning the Conduct they are to obſerve, with regard to the <hi>New-Converts.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I have ſufficiently declared to you in our laſt Synod, the Method I would have you uſe in my Dioceſe, with reſpect to the New-Con<g ref="char:EOLhyphen"/>verts; nevertheleſs I have thought good to ſet down in Order the principal things to which I think you ought to give a more particular attention.</p>
+            <pb n="10" facs="tcp:100990:6"/>
+            <list>
+               <item>1. You are to explain every <hi>Sunday</hi> the Goſpel or Epiſtle for the Day, after having read it diſtinctly in the <hi>French</hi> Lan<g ref="char:EOLhyphen"/>guage, out of the time of Divine Service. And that you may be the better qualified to inſtruct thoſe that are under your Care, you are to apply your ſelf, with all ſeriouſneſs, to the ſtudy of the Word of God, being provided of a good Commentary, which explains the Text in a Literal and Mo<g ref="char:EOLhyphen"/>ral Senſe.</item>
+               <item>2. Upon Holidays, and <hi>Sundays,</hi> you are to uſe the ſhort Ca<g ref="char:EOLhyphen"/>techiſing, by way of Queſtions and Anſwers; and engage the New-Converts to bring their Children and Domeſticks to it. And do not fail to have the Prayers both Evening and Morning upon Holidays and <hi>Sundays</hi> in the <hi>French</hi> Tongue.</item>
+               <item>3. You are never to diſguiſe, or miſ-repreſent the Doctrine of the Church, and the Truths which it propoſes to be be<g ref="char:EOLhyphen"/>liev'd, by a falſe Condeſcention, under a pretence of obliging the New-Converts the more eaſily to come in to our Commu<g ref="char:EOLhyphen"/>nion. Neither are you to teach them any other Doctrines, than ſuch as are conſtantly of Faith, and have been decided in the Council of <hi>Trent;</hi> and have a care of propoſing the Opini<g ref="char:EOLhyphen"/>ons of the School, as if they were the Doctrine of the Church.</item>
+               <item>4. Make it your buſineſs to diſabuſe them of thoſe falſe Preju<g ref="char:EOLhyphen"/>dices which they have taken up againſt the <hi>Roman</hi> Church, by letting them ſee, that ſhe does not give the Worſhip of a true and ſincere Adoration to any but to God only; that it is in the alone Merits of Jeſus Chriſt that ſhe places her Confidence, that ſhe puts no truſt neither in Images, nor in the Relicks of Saints; and that it was never her Belief, there was any parti<g ref="char:EOLhyphen"/>cular Vertue affix'd to theſe Images or Relicks.</item>
+               <pb n="11" facs="tcp:100990:6"/>
+               <item>5. You are to hinder in your Pariſhes any from Preaching up, or vouching for fabulous or uncertain Miracles, and that they do not ſpeak of Indulgences after any other manner than they are ſpoken of in the Council of <hi>Trent.</hi> But Preach, and cauſe to be Preach'd ſolidly, the Truths of the Goſpel, in all their Purity, and with the greateſt plainneſs that is poſſible.</item>
+               <item>6. Take care, that in ſome meaſure, every New-Convert does his Duty, as becomes a good Catholick, but without Conſtraint, and without Violence. God would have the Ser<g ref="char:EOLhyphen"/>vice that we render him, ſhould be voluntary: And therefore you are never to uſe any harſh or reproachful Language, nor any threatnings, in the publications you make in the Church, in your Sermons, or upon any other Occaſions, to oblige them to come to Church, or to receive our Sacraments.</item>
+               <item>7. Do all you can to bring them to aſſiſt at the Holy Sacri<g ref="char:EOLhyphen"/>fice of the Maſs; but be not too ſevere in taking notice of them, and do not place Inſpectors at the Church Doors, to ob<g ref="char:EOLhyphen"/>ſerve thoſe that fail to be preſent at it.</item>
+               <item>8. You are never to adminiſter the Sacraments but to ſuch as you judge, in every reſpect, rightly and duly diſpos'd to re<g ref="char:EOLhyphen"/>ceive them; and who have declared to you, that they firmly believe all that the Catholick, Apoſtolick, and <hi>Roman</hi> Church believes, and that they will live and dye in her Communion. And let not any Humane Conſideration prevail with you to give the Sacraments to thoſe, whom you do not find to have all thoſe diſpoſitions that are requiſite to the receiving of them worthily.</item>
+               <item>9. You are to uſe great caution about the Enquiries you make in Confeſſion, which concerns Sins againſt Chaſtity,
+<pb n="12" facs="tcp:100990:7"/>above all, with regard to the Female Sex; and take care you ſpeak with ſo much modeſty, concerning theſe kind of Mat<g ref="char:EOLhyphen"/>ters, that they may never have any reaſon to believe, that ei<g ref="char:EOLhyphen"/>ther Senſuality or Curioſity have any part in the Queſtions you ask them.</item>
+               <item>10. In the beginning you may mitigate the Severity of thoſe Penances which their Sins deſerve, that they may not be diſcouraged.</item>
+               <item>11. Never force them, neither in Health nor Sickneſs, to approach the Sacraments againſt their mind. Do not threaten them, nor cauſe informations to be brought in againſt them upon this account; and avoid, as much as you can, having any recourſe to the Conſtables, or Governours of the place, or o<g ref="char:EOLhyphen"/>ther Magiſtrates; but let it ſuffice to exhort them in the pre<g ref="char:EOLhyphen"/>ſence of Witneſſes; let them know the great advantages they will receive by the Sacraments, and get their Relations and Friends to engage for them, that they will not go out of the World, without being fortified with the Holy <hi>Viaticum.</hi>
+               </item>
+               <item>12. In caſe any of them dye, without being deſirous ro re<g ref="char:EOLhyphen"/>ceive the Sacraments, you are not to bury them in Conſecrated Ground, nor to ſay the Publick Prayers for them after they are dead; but I would not have you trouble your ſelf about the manner wherewith their dead Bodies are us'd to be treated, nor about the place where they are buried. Leave that care to the Officers of Juſtice, who are obliged to look after it; and do not you intermeddle in ſuch kind of Affairs, nor in any o<g ref="char:EOLhyphen"/>ther which may alienate their Affections from you, and by that means put you out of a condition to gain their Confidence, and their Feiendſhip, without which you will never be able to do any good upon them.</item>
+               <pb n="13" facs="tcp:100990:7"/>
+               <item>13. When they ſhall fail to ſend their Children to School, and to Catechiſing, or ſhall eat Fleſh upon days prohibited, ad<g ref="char:EOLhyphen"/>moniſh them of it Charitably in private, as a good Paſtour ought to do; and if your Endeavours and Admonitions do not amend them; have a care you do not bring them before Juſtice, that you do not quarrel or fall out with them; or ſpeak of them publickly with Contempt or Averſion; but be content to give them your Advice; and give us the names of thoſe with whom you are not ſatisfied, that we may apply ſuch Remedies, as the Spirit of God and Chriſtian Charity ſhall ſuggeſt to us.</item>
+               <item>14. Pray much to God, both in private and publick, for their ſincere Converſion. Edifie them by your good Examples; and by a Holy, Chaſt, Charitable, and Diſ-intereſted Conduct. Nouriſh them<note n="*" place="margin">Aſſidue<g ref="char:EOLhyphen"/>ment.</note> frequently with the Food of the Holy Scrip<g ref="char:EOLhyphen"/>tures. Do them affectionately all the good Offices that may be both for their Spiritual and Temporal good, which they may exact, or which are in your power. This is the beſt way to ſettle them in our Communion: for as St. <hi>Auguſtine</hi> ſays, nothing contributes more to make known which is the true Church, than the exact practice of thoſe Truths which the Goſpel Teaches. <hi>Ejus eſt Evangelium, ubi vivitur ſecundum Evangelium.</hi>
+               </item>
+               <item>15. Put in practice the Advice which the Prince of the Apo<g ref="char:EOLhyphen"/>ſtles gives to all Paſtours, and which may be call'd the firſt and chief Rule of Chriſtianity:<note n="*" place="margin">1 Pet. 5. 2.</note> 
+                  <hi>Feed the Flock of God which is among you, taking the overſight thereof, not by conſtraint, but willingly, not for filthy lucre ſake, but of a ready mind.</hi> And as St. <hi>Paul</hi> ſays, <hi>Him that is weak in the Faith receive, but not to doubtful diſputations.</hi>
+               </item>
+               <item>16. Endeavour to imitate the Conduct which St. <hi>Auguſtine</hi>
+                  <pb n="14" facs="tcp:100990:8"/>recommends to a Biſhop of <hi>Carthage,</hi> which is, In all the En<g ref="char:EOLhyphen"/>counters that we meet with, to act and to behave our ſelves without Sharpneſs, without bitterneſs, and without threatning; and to make this our ſtudy and deſign, that in all our Diſcourſes and Exhortations, the Judgments of God may be more dreaded, than the Power of men, or than any thing we can do to them. <hi>Non aſperè, quantum exiſtimo, non duriter, non modo imperioſo iſt a tol<g ref="char:EOLhyphen"/>luntur, ſed magis docendo quam jubendo, magis monendo quam minando, ne nos ipſi in noſtrâ poteſtate, &amp; non Deus in ſuo ſermo<g ref="char:EOLhyphen"/>ne timeatur.</hi> Remember that the diſeaſes of the Soul, are not cured in a moment, nor by Conſtraint or Violence; but by the fervour of Prayers, and the ſweet Inſinuations of Truth and Charity. And the better to gain their Confidence, and to bring them to be in love with the Church of <hi>Rome,</hi> tell them what St. <hi>Aug.</hi> ſaid to the <hi>Manichees,</hi> to engage them by the ways of ſweetneſs, to return to the Unity of the Catholick Church: <hi>Let thoſe,</hi> ſays he, <hi>treat you with ſharpneſs, who know not how difficult a matter it is to find out the Truth, and to avoid Errours. Let thoſe treat you with rigour, who are ignorant how much pains there is required to raiſe ones ſelf above thoſe fantomes wherewith he has once been poſſeſſed. Let thoſe treat you with ſeverity, who are not acquainted with the great difficulties that are to be over<g ref="char:EOLhyphen"/>come, before the Eye of the inward Man can be made ſo clear and piercing, as to be able to ſee and look upon the Truth, which is the Sun of the Soul. But for us, we are far from being deſirous to follow their Method or Conduct towards Perſons who are ſeparated from us, not by Errours of which they themſelves have been the Authors, but only by having been found engaged in the miſtakes of others. On the contrary, we offer up our Prayers to God, that in refuſing the falſe Opinions of thoſe whom you follow with a Prejudice, and Prepoſſeſſion, which we condemn rather of Im prudence, than Milice, he would give us grace, that we may bring along with us, no other than a Spirit of Peace, that may be touch'd or affected with no other Impreſſions than thoſe
+<pb n="15" facs="tcp:100990:8"/>of Love and Charity, nor with other Intereſts than thoſe of Jeſus Chriſt, nor with other deſires than thoſe of your Salva<g ref="char:EOLhyphen"/>tion.</hi> I am always,</item>
+            </list>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Affectionate, <hi>Le Cardinal le Camus.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
